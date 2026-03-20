@@ -1,0 +1,60 @@
+D:\studentmangaementsystem app\studentmanagementsystem\studentmanagementsystem\bin\Debug\net10.0-windows\studentmanagementsystem.exe
+D:\studentmangaementsystem app\studentmanagementsystem\studentmanagementsystem\bin\Debug\net10.0-windows\studentmanagementsystem.deps.json
+D:\studentmangaementsystem app\studentmanagementsystem\studentmanagementsystem\bin\Debug\net10.0-windows\studentmanagementsystem.runtimeconfig.json
+D:\studentmangaementsystem app\studentmanagementsystem\studentmanagementsystem\bin\Debug\net10.0-windows\studentmanagementsystem.dll
+D:\studentmangaementsystem app\studentmanagementsystem\studentmanagementsystem\bin\Debug\net10.0-windows\studentmanagementsystem.pdb
+D:\studentmangaementsystem app\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.Form1.resources
+D:\studentmangaementsystem app\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.Resources.resources
+D:\studentmangaementsystem app\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.vbproj.GenerateResource.cache
+D:\studentmangaementsystem app\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\studentmangaementsystem app\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.AssemblyInfoInputs.cache
+D:\studentmangaementsystem app\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.AssemblyInfo.vb
+D:\studentmangaementsystem app\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.vbproj.CoreCompileInputs.cache
+D:\studentmangaementsystem app\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.dll
+D:\studentmangaementsystem app\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\refint\studentmanagementsystem.dll
+D:\studentmangaementsystem app\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.pdb
+D:\studentmangaementsystem app\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.genruntimeconfig.cache
+D:\studentmangaementsystem app\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\ref\studentmanagementsystem.dll
+D:\studentmangaementsystem app\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.Dashboard.resources
+D:\studentmangaementsystem app\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.hospital.resources
+D:\studentmangaementsystem app\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.studentLoanForm.resources
+C:\Users\ampon\Desktop\studentmanagementsystem\studentmanagementsystem\bin\Debug\net10.0-windows\studentmanagementsystem.exe
+C:\Users\ampon\Desktop\studentmanagementsystem\studentmanagementsystem\bin\Debug\net10.0-windows\studentmanagementsystem.deps.json
+C:\Users\ampon\Desktop\studentmanagementsystem\studentmanagementsystem\bin\Debug\net10.0-windows\studentmanagementsystem.runtimeconfig.json
+C:\Users\ampon\Desktop\studentmanagementsystem\studentmanagementsystem\bin\Debug\net10.0-windows\studentmanagementsystem.dll
+C:\Users\ampon\Desktop\studentmanagementsystem\studentmanagementsystem\bin\Debug\net10.0-windows\studentmanagementsystem.pdb
+C:\Users\ampon\Desktop\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.Form1.resources
+C:\Users\ampon\Desktop\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.hospital.resources
+C:\Users\ampon\Desktop\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.Dashboard.resources
+C:\Users\ampon\Desktop\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.Resources.resources
+C:\Users\ampon\Desktop\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.studentLoanForm.resources
+C:\Users\ampon\Desktop\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.vbproj.GenerateResource.cache
+C:\Users\ampon\Desktop\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ampon\Desktop\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.AssemblyInfoInputs.cache
+C:\Users\ampon\Desktop\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.AssemblyInfo.vb
+C:\Users\ampon\Desktop\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.vbproj.CoreCompileInputs.cache
+C:\Users\ampon\Desktop\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.dll
+C:\Users\ampon\Desktop\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\refint\studentmanagementsystem.dll
+C:\Users\ampon\Desktop\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.pdb
+C:\Users\ampon\Desktop\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.genruntimeconfig.cache
+C:\Users\ampon\Desktop\studentmanagementsystem\studentmanagementsystem\obj\Debug\net10.0-windows\ref\studentmanagementsystem.dll
+C:\Users\ampon\Desktop\UEB3241823_AMPONSEM PRINCE_L300_IntergratedManagementSystem\studentmanagementsystem\bin\Debug\net10.0-windows\studentmanagementsystem.exe
+C:\Users\ampon\Desktop\UEB3241823_AMPONSEM PRINCE_L300_IntergratedManagementSystem\studentmanagementsystem\bin\Debug\net10.0-windows\studentmanagementsystem.deps.json
+C:\Users\ampon\Desktop\UEB3241823_AMPONSEM PRINCE_L300_IntergratedManagementSystem\studentmanagementsystem\bin\Debug\net10.0-windows\studentmanagementsystem.runtimeconfig.json
+C:\Users\ampon\Desktop\UEB3241823_AMPONSEM PRINCE_L300_IntergratedManagementSystem\studentmanagementsystem\bin\Debug\net10.0-windows\studentmanagementsystem.dll
+C:\Users\ampon\Desktop\UEB3241823_AMPONSEM PRINCE_L300_IntergratedManagementSystem\studentmanagementsystem\bin\Debug\net10.0-windows\studentmanagementsystem.pdb
+C:\Users\ampon\Desktop\UEB3241823_AMPONSEM PRINCE_L300_IntergratedManagementSystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.Form1.resources
+C:\Users\ampon\Desktop\UEB3241823_AMPONSEM PRINCE_L300_IntergratedManagementSystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.hospital.resources
+C:\Users\ampon\Desktop\UEB3241823_AMPONSEM PRINCE_L300_IntergratedManagementSystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.Dashboard.resources
+C:\Users\ampon\Desktop\UEB3241823_AMPONSEM PRINCE_L300_IntergratedManagementSystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.Resources.resources
+C:\Users\ampon\Desktop\UEB3241823_AMPONSEM PRINCE_L300_IntergratedManagementSystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.studentLoanForm.resources
+C:\Users\ampon\Desktop\UEB3241823_AMPONSEM PRINCE_L300_IntergratedManagementSystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.vbproj.GenerateResource.cache
+C:\Users\ampon\Desktop\UEB3241823_AMPONSEM PRINCE_L300_IntergratedManagementSystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ampon\Desktop\UEB3241823_AMPONSEM PRINCE_L300_IntergratedManagementSystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.AssemblyInfoInputs.cache
+C:\Users\ampon\Desktop\UEB3241823_AMPONSEM PRINCE_L300_IntergratedManagementSystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.AssemblyInfo.vb
+C:\Users\ampon\Desktop\UEB3241823_AMPONSEM PRINCE_L300_IntergratedManagementSystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.vbproj.CoreCompileInputs.cache
+C:\Users\ampon\Desktop\UEB3241823_AMPONSEM PRINCE_L300_IntergratedManagementSystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.dll
+C:\Users\ampon\Desktop\UEB3241823_AMPONSEM PRINCE_L300_IntergratedManagementSystem\studentmanagementsystem\obj\Debug\net10.0-windows\refint\studentmanagementsystem.dll
+C:\Users\ampon\Desktop\UEB3241823_AMPONSEM PRINCE_L300_IntergratedManagementSystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.pdb
+C:\Users\ampon\Desktop\UEB3241823_AMPONSEM PRINCE_L300_IntergratedManagementSystem\studentmanagementsystem\obj\Debug\net10.0-windows\studentmanagementsystem.genruntimeconfig.cache
+C:\Users\ampon\Desktop\UEB3241823_AMPONSEM PRINCE_L300_IntergratedManagementSystem\studentmanagementsystem\obj\Debug\net10.0-windows\ref\studentmanagementsystem.dll
